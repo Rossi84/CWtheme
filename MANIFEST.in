@@ -1,0 +1,16 @@
+include *.txt
+include LICENSE
+include package.json
+recursive-include cw_theme *.conf
+recursive-include cw_theme *.css
+recursive-include cw_theme *.eot
+recursive-include cw_theme *.html
+recursive-include cw_theme *.js
+recursive-include cw_theme *.svg
+recursive-include cw_theme *.png
+recursive-include cw_theme *.ttf
+recursive-include cw_theme *.woff
+recursive-include cw_theme *.woff2
+recursive-include cw_theme/data *.yaml
+recursive-include cw_theme/data *.yml
+recursive-include cw_theme/data *.json
