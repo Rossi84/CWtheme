@@ -90,8 +90,8 @@ it:
     faq: FAQ
 
     header_manuali: manuali
-    header_utente: utente
-    header_corecom: corecom
+    header_utente: cliente
+    header_corecom: conciliatore
     header_operatore: operatore
     header_struttura_accreditata: struttura accreditata
     header_link_piattaforme: Piattaforme
@@ -202,8 +202,8 @@ en:
     faq: FAQ
 
     header_manuali: manuali
-    header_utente: utente
-    header_corecom: corecom
+    header_utente: cliente
+    header_corecom: conciliatore
     header_operatore: operatore
     header_struttura_accreditata: struttura accreditata
     header_link_piattaforme: Platforms
