@@ -1,7 +1,7 @@
 # Custom vars
 theme_color: "#0066cc"
 css_theme: docs-italia
-cw_full: ConciliaDocs
+cw_full: ConciliaWeb
 logo: /assets/icons/logo-it.png
 cookies_policy_link: /cookies-policy/
 default_language: it

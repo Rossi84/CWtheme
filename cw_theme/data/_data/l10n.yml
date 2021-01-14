@@ -29,7 +29,7 @@ it:
     search_results: Risultati della ricerca
     search_no_results: La tua ricerca non ha prodotto documenti. Assicurati di non aver commesso errori di digitazione.
     site_subtitle: Documenti pubblici, digitali.
-    site_title: ConciliaWeb
+    site_title: ConciliaDocs
     share_msg: condividi
     skiplink_goto_content: vai ai contenuti
     skiplink_goto_navigation: vai alla navigazione del sito
@@ -87,7 +87,13 @@ it:
     in_collaboration_with: in collaborazione con
     follow_us: seguici su
 
-    header_link_trasformazione: Piano Triennale
+    faq: FAQ
+
+    header_manuali: manuali
+    header_utente: utente
+    header_corecom: corecom
+    header_operatore: operatore
+    header_struttura_accreditata: struttura accreditata
     header_link_piattaforme: Piattaforme
     header_link_software: Software
     header_link_api: API
@@ -135,7 +141,7 @@ en:
     search_results: Search Results
     search_no_results: Your search did not match any documents. Please make sure that all words are spelled correctly.
     site_subtitle: Public documents, made digital.
-    site_title: ConciliaWeb
+    site_title: ConciliaDocs
     share_msg: share
     skiplinks_goto_content: go to content
     skiplinks_goto_navigation: go to site navigation
@@ -193,7 +199,13 @@ en:
     in_collaboration_with: in collaboration with
     follow_us: follow us on
 
-    header_link_trasformazione: Piano Triennale
+    faq: FAQ
+
+    header_manuali: manuali
+    header_utente: utente
+    header_corecom: corecom
+    header_operatore: operatore
+    header_struttura_accreditata: struttura accreditata
     header_link_piattaforme: Platforms
     header_link_software: Software
     header_link_api: API
