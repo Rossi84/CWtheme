@@ -87,15 +87,15 @@ it:
     in_collaboration_with: in collaborazione con
     follow_us: seguici su
 
-    faq: FAQ
-    assistenza: Assistenza
-    rilasci: Rilasci
+    assistenza: Contact center dell'Autorità
 
     header_manuali: manuali
     header_utente: cliente
     header_corecom: conciliatore
     header_operatore: operatore
     header_struttura_accreditata: struttura accreditata
+    header_faq: F.A.Q.
+    header_rilasci: Release notes
     header_link_piattaforme: Piattaforme
     header_link_software: Software
     header_link_api: API
@@ -201,15 +201,15 @@ en:
     in_collaboration_with: in collaboration with
     follow_us: follow us on
 
-    faq: FAQ
-    assistenza: Assistenza
-    rilasci: Rilasci
+    assistenza: Contact center dell'Autorità
 
     header_manuali: manuali
     header_utente: cliente
     header_corecom: conciliatore
     header_operatore: operatore
     header_struttura_accreditata: struttura accreditata
+    header_faq: F.A.Q.
+    header_rilasci: Release notes
     header_link_piattaforme: Platforms
     header_link_software: Software
     header_link_api: API
